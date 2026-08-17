@@ -3,7 +3,8 @@
     "BIDSVersion": "1.6.0",
     "License": "CC0",
     "Authors": [
-        "Yue Cui", "Shan Yu"
+        "Yue Cui",
+        "Shan Yu"
     ],
     "Acknowledgements": "None",
     "HowToAcknowledge": "None",
@@ -13,5 +14,5 @@
     "ReferencesAndLinks": [
         "If using this dataset, please cite our paper: A multicenter time-of-flight magnetic resonance angiography dataset and multifaceted cerebrovascular atlases of rhesus monkeys"
     ],
-    "DatasetDOI": "doi:"
+    "DatasetDOI": "doi:10.18112/openneuro.ds008018.v1.0.0"
 }
