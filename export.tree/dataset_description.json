@@ -1,0 +1,18 @@
+{
+    "Name": "Macaque TOF-MRA dataset",
+    "BIDSVersion": "1.6.0",
+    "License": "CC0",
+    "Authors": [
+        "Yue Cui",
+        "Shan Yu"
+    ],
+    "Acknowledgements": "None",
+    "HowToAcknowledge": "None",
+    "Funding": [
+        "This study was supported by the National Natural Science Foundation of China (No. 82371486)."
+    ],
+    "ReferencesAndLinks": [
+        "If using this dataset, please cite our paper: A multicenter time-of-flight magnetic resonance angiography dataset and multifaceted cerebrovascular atlases of rhesus monkeys"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008018.v1.0.0"
+}
